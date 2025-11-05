@@ -3,7 +3,7 @@
 
 🙋 Welcome to the repository containing data from the International Year of the Salmon High Seas Expedition.
 
-🐟 DOI: [update when available]
+🐟 DOI: https://doi.org/10.5061/dryad.c2fqz61nn
 
 🦐 Recommended citation: [update when available]
 
