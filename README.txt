@@ -5,7 +5,7 @@
 
 🐟 DOI: https://doi.org/10.5061/dryad.c2fqz61nn
 
-🦐 Recommended citation: Deeg, C., Tam, C., Esenkulova, S., Wells, A., Soshnina, V., Ens, N., Schulze, A., & Miller-Saunders, K. (2025). Environmental DNA (eDNA) data from the CCGS Sir John Franklin, NOAA Bell M. Shimada and R/V TINRO during the 2022 International Year of the Salmon Pan-Pacific Winter High Seas Expedition (Version v). North Pacific Anadromous Fish Commission. https://doi.org/10.5061/dryad.c2fqz61nn
+🦐 Recommended citation: Deeg, C., Tam, C., Esenkulova, S., Wells, A., Soshnina, V., Ens, N., Schulze, A., & Miller-Saunders, K. (2025). Environmental DNA (eDNA) data from the CCGS Sir John Franklin, NOAA Bell M. Shimada and R/V TINRO during the 2022 International Year of the Salmon Pan-Pacific Winter High Seas Expedition [Data set]. North Pacific Anadromous Fish Commission. https://doi.org/10.5061/dryad.c2fqz61nn
 
 👨🏽‍💻 The repository is structured as follows:
 
